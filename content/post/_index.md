@@ -1,5 +1,5 @@
 +++
-title = "Research"
+title = "Posts"
 
 # View.
 #   1 = List
