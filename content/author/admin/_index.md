@@ -44,7 +44,7 @@ interests = [
   year = 2017
 
 [[education.courses]]
-  course = "M.Sc. in Psychology"
+  course = "B.Sc. in Psychology"
   institution = "University of Würzburg"
   year = 2014
 
