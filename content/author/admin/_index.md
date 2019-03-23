@@ -84,4 +84,4 @@ interests = [
 
 Sebastian Siuda is Ph.D. Fellow at the Cologne Graduate School. His psychological research focuses on interpersonal trust. He tries to investigate under which conditions people trust, how they assess other people's trustworthiness and how one can become very rich from all this research (please help).
 
-Apart from his research at the University of Cologne, he also offers psychological coaching to anyone interested. Issues for a coaching sessions might include questions like "What should I do after graduation?" or "What can I do to reach my goals?".
+Apart from his research at the University of Cologne, he also offers psychological coaching to anyone interested. Issues for a coaching session might include questions like "What should I do after graduation?" or "What can I do to reach my goals?".
