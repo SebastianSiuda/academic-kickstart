@@ -67,6 +67,8 @@ office_hours = ""
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "Twitter", link = "https://twitter.com/SebastianSiuda"},
   {icon = "instagram", icon_pack = "fab", name = "Instagram", link = "https://www.instagram.com/mr_sebastian_supertramp/"},
+  {icon = "xing", icon_pack = "fab", name = "Xing", link = "https://www.xing.com/profile/Sebastian_Siuda/"},
+  {icon = "linkedin", icon_pack = "fab", name = "Linkedin", link = "https://www.linkedin.com/in/sebastian-siuda-92916a79/"},
   # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
