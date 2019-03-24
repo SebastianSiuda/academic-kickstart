@@ -63,10 +63,15 @@ interests = [
   icon_pack = "fab"
   link = "https://twitter.com/SebastianSiuda"
 
-# [[social]]
-#   icon = "google-scholar"
-#   icon_pack = "ai"
-#   link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+[[social]]
+  icon = "linkedin"
+  icon_pack = "fab"
+  link = "https://www.linkedin.com/in/sebastian-siuda-92916a79/"
+
+[[social]]
+  icon = "xing"
+  icon_pack = "fab"
+  link = "https://www.xing.com/profile/Sebastian_Siuda/"
 
 [[social]]
   icon = "instagram"
