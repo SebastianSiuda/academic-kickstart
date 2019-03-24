@@ -20,11 +20,11 @@ subtitle = ""
   name = "Statistics"
   description = "" 
 
-[[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "" 
+# [[feature]]
+#   icon = "r-project"
+#   icon_pack = "fab"
+#   name = "R"
+#   description = "" 
   
   [[feature]]
   icon = "medapps"
