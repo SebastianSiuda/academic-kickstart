@@ -7,13 +7,13 @@
   languageCode = "en-us"
 
 # Uncomment the lines below to configure your website in a second language.
-#[zh]
-#  languageCode = "zh-Hans"
-#  contentDir = "content/zh"
-#  title = "Chinese website title..."
-#  [zh.params]
-#    description = "Site description in Chinese..."
-#  [[zh.menu.main]]
+[de]
+  languageCode = "de"
+  contentDir = "content/de"
+  title = "Sebastian Siuda"
+#  [de.params]
+#    description = "Site description in German..."
+#  [[de.menu.main]]
 #    name = "Wo"
 #    url = "#about"
 #    weight = 1
