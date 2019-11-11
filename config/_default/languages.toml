@@ -11,9 +11,9 @@
   languageCode = "de"
   contentDir = "content/de"
   title = "Sebastian Siuda"
-#  [de.params]
-#    description = "Site description in German..."
-#  [[de.menu.main]]
-#    name = "Wo"
-#    url = "#about"
-#    weight = 1
+  [de.params]
+    description = "Site description in German..."
+  [[de.menu.main]]
+    name = "Wo"
+    url = "#about"
+    weight = 1
