@@ -87,6 +87,7 @@ interests = [
 
 +++
 
+DEUTSCHE VERSION EINFÜGEN 
 Hi, I am Ph.D. Fellow at the Cologne Graduate School. My psychological research focuses on interpersonal trust. I try to investigate under which conditions people trust, how they assess other people's trustworthiness and how I can become very rich from all this research (please help).
 
 Apart from my research at the University of Cologne, I also offer psychological coaching to anyone interested. Issues for a coaching session might include questions like "What should I do after graduation?" or "What can I do to reach my goals?".
