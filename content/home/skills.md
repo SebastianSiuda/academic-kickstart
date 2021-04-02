@@ -36,6 +36,6 @@ subtitle = ""
   icon = "medal"
   icon_pack = "fas"
   name = "Scientific Knowledge"
-  description = "Description about knowledge"
+  description = ""
 
 +++
