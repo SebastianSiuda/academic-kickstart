@@ -13,7 +13,7 @@ baseurl = "https://sebastiansiuda.com/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2019 Sebastian Siuda"
+copyright = "&copy; 2021 Sebastian Siuda"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = "UA-136750776-1"
