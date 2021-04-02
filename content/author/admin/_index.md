@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Ph.D. Fellow"
+role = "Research Associate"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -87,6 +87,6 @@ interests = [
 
 +++
 
-Hi, I am Ph.D. Fellow at the Cologne Graduate School. My psychological research focuses on interpersonal trust. I try to investigate under which conditions people trust, how they assess other people's trustworthiness and how I can become very rich from all this research (please help).
+Hi, I am a research associate at the University of Cologne. My psychological research focuses on interpersonal trust. I try to investigate under which conditions people trust, how they assess other people's trustworthiness and (so far unsuccessfully) how I can become very rich from all this research.
 
-Apart from my research at the University of Cologne, I also offer psychological coaching to anyone interested. Issues for a coaching session might include questions like "What should I do after graduation?" or "What can I do to reach my goals?".
+Apart from my research at the University of Cologne, I also offer psychological coaching. Issues for a coaching session might include questions like "What should I do after graduation?" or "What can I do to reach my goals?".
