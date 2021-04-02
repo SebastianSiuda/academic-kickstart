@@ -33,9 +33,9 @@ subtitle = ""
   description = "" 
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "medal"
   icon_pack = "fas"
-  name = "Photography"
-  description = ""
+  name = "Scientific Knowledge"
+  description = "Description about knowledge"
 
 +++
