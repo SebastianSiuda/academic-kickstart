@@ -18,3 +18,8 @@ autolink = true
 email_form = 2
 +++
 
+content:
+  form:
+    provider: formspree
+    formspree:
+      id: mlezekbl
