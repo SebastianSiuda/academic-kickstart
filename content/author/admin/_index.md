@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Sebastian Siuda"
+name = "Dr. Sebastian Siuda"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,11 +9,11 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Research Associate"
+role = "M.Sc. Psychologie"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "University of Cologne", url = "" } ]
+# organizations = [ { name = "University of Cologne", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = ""
@@ -23,6 +23,7 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
+  "Behavioral Economics",
   "Interpersonal Trust",
   "Person Perception",
   "Evolutionary Psychology"
@@ -37,6 +38,11 @@ interests = [
 #   course = "PhD in Artificial Intelligence"
 #   institution = "Stanford University"
 #   year = 2012
+
+[[education.courses]]
+  course = "Dr. in Social Science"
+  institution = "University of Cologne"
+  year = 2021
 
 [[education.courses]]
   course = "M.Sc. in Psychology"
@@ -87,6 +93,6 @@ interests = [
 
 +++
 
-Hi, I am a research associate at the University of Cologne. My psychological research focuses on interpersonal trust. I try to investigate under which conditions people trust, how they assess other people's trustworthiness and (so far unsuccessfully) how I can become very rich from all this research.
+Hi, I am a psychologist doing research on the dynamics of interpersonal trust. I try to investigate under which conditions people trust, how they assess other people's trustworthiness and (so far unsuccessfully) how I can become very rich from all this research.
 
-Apart from my research at the University of Cologne, I also offer psychological coaching. Issues for a coaching session might include questions like "What should I do after graduation?" or "What can I do to reach my goals?".
+Apart from my research at the University of Cologne, I also offer talks and lecture services in the field of social and experimental psychology. If you are interested in getting in contact with me, feel free to use the form below.
