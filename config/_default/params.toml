@@ -50,9 +50,9 @@ time_format = "15:04"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "s.siuda@uni-koeln.de"
-phone = "+49(0)221 470 2502"
-address = "WiSo II (Building 101BT3), Room 4.330, Universitätsstr. 24, D-50931 Cologne, Germany"
+email = "hi@sebastiansiuda.com"
+phone = ""
+address = ""
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""
