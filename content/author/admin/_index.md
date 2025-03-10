@@ -65,14 +65,9 @@ interests = [
   link = "#contact"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
-  icon = "twitter"
-  icon_pack = "fab"
-  link = "https://twitter.com/SebastianSiuda"
-
-[[social]]
   icon = "linkedin"
   icon_pack = "fab"
-  link = "https://www.linkedin.com/in/sebastian-siuda-92916a79/"
+  link = "https://www.linkedin.com/in/sebastian-siuda/"
 
 [[social]]
   icon = "xing"
