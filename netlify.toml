@@ -1,8 +1,9 @@
 [build]
-  command = "snap install hugo && hugo"
+  command = "hugo"
   publish = "public"
 
 [build.environment]
+  HUGO_VERSION = "0.110.0"
   HUGO_ENABLEGITINFO = "true"
 
 [context.production.environment]
